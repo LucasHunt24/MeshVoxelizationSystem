@@ -1,1 +1,1 @@
-# MeshVoxelizationSystem
+This software is the proprietary creation of Lucas Hunt. All rights reserved. Unauthorized use, reproduction, or modification of this software, including its use in unrelated applications or game cheats, is a violation of copyright law.
